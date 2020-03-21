@@ -6,8 +6,8 @@
 
 |Name|Channel|
 |---|---|
-|Luke Smith| [Link](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhAi) |
-|Tom | [Link](https://www.youtube.com/channel/UCUMSHXWczvxHy9e8silnVNw) |
+|Luke Smith| [Link](https://www.youtube.com/channel/lukesmithxyz) |
+|GloriousEggRoll | [Link](https://www.youtube.com/channel/gloriouseggrolltv) |
 
 #### Guides and Reference
 
