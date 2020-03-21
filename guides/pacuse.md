@@ -2,17 +2,13 @@
 
 | Command | Function |
 |---|---|
-| -Syu | Update the remote package database and install updates for installed
-packages |
-| -Ss | Query the remote repository for packages containing specific search
-criteria |
+| -Syu | Update remote package database and install updates | 
+| -Ss | Query remote repository for packages containing specific package |
 | -R | Remove a specified package from the local system |
-| -Rs | Remove a specified package and its dependencies from the local system |
-| -Rns | Remove a specified package, dependencies, and system config files from
-the local system |
+| -Rs | Same as `-R`, but removes dependencies |
+| -Rns | Same as `-Rs`, but removes system config files | 
 | -Q | List currently installed packages on the local system |
-| -Qe | List currently installed packages on local system that you explicitly
-installed |
+| -Qe | Same as `-Q` only shows packages that you explicitly installed |
 | -Qeq | Same as `-Qe`, but only outputs the program name |
 | -Qn | Lists all installed packages from the main repository |
 | -Qm | Lists all installed packages from AUR |
@@ -29,8 +25,7 @@ These options can be added to your `pacman.conf`
 | Option | Function |
 |---|---|
 | Color | Colorize and format text output |
-| CheckSpace | Verify there is enough disk space to install a specific package
-or update |
+| CheckSpace | Check disk space before installing packages or updates |
 | VerbosePkgLists | More verbosity when installing and updating packages |
 | ILoveCandy | Easter egg that changes look of progress bar |
 
