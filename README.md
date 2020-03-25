@@ -1,4 +1,4 @@
-### Awesome Arch Linux 
+## Awesome Arch Linux 
 
 ---
 
@@ -11,5 +11,8 @@
 
 #### Guides and Reference
 
-* [Arch Wiki](https://wiki.archlinux.org/)
-* [pacman usage](guides/pacuse.md)
+* Introduction
+    * [Arch Wiki](https://wiki.archlinux.org/)
+* Package Management
+    * [pacman usage](guides/pacuse.md)
+
