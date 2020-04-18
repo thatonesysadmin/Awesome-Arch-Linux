@@ -18,6 +18,8 @@
 | -Si | Query the remote database for detailed info on a specific package |
 | -Sc | Removed cached versions of packages that are no longer needed |
 
+---
+
 ### Configuration Options
 
 These options can be added to your `pacman.conf`
