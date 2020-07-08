@@ -15,9 +15,11 @@
 #### Guides and Reference
 
 ##### Useful Links
+
     * [Arch Wiki](https://wiki.archlinux.org/)
 
 
 ##### Package Management
+
     * [pacman usage](guides/pacuse.md)
 
