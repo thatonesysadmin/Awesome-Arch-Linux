@@ -4,18 +4,20 @@
 
 #### Arch Linux Youtubers
 
-**Luke Smith** [Link](https://www.youtube.com/channel/lukesmithxyz)
+* [Luke Smith](https://www.youtube.com/channel/lukesmithxyz)
 
-**GloriousEggRoll** [Link](https://www.youtube.com/channel/gloriouseggrolltv)
+* [GloriousEggRoll](https://www.youtube.com/channel/gloriouseggrolltv)
 
-**Chris Titus Tech**
+* **Chris Titus Tech**
 
-**DistroTube**
+* **DistroTube**
 
 #### Guides and Reference
 
-* Introduction
+##### Useful Links
     * [Arch Wiki](https://wiki.archlinux.org/)
-* Package Management
+
+
+##### Package Management
     * [pacman usage](guides/pacuse.md)
 
